@@ -1,1 +1,2 @@
 Hello AI Students
+Welcome to the Git Class
